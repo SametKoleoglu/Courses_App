@@ -1,0 +1,35 @@
+.navbar-brand {
+  color: #e63946;
+}
+
+.navbar-brand img{
+  width: 40px;
+  margin-right: 10px;
+}
+
+.btn{
+  font-size: 15px;
+}
+
+.btn-primary, .bg-primary {
+  background-color: #8ecae8 !important;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #219ebc !important;
+  opacity: 0.9;
+}
+
+.btn-secondary {
+  background-color: #002355 !important;
+}
+
+.btn-secondary:hover {
+  background-color: #e63946 !important;
+  opacity: 0.9;
+}
+
+.icon{
+  margin-right: 5px;
+}
